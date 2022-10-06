@@ -1,0 +1,64 @@
+.card1 {
+    width: 239px;
+    height: 245.92px;
+    left: 93px;
+    top: 788px;
+    margin-top: 40px;
+    background-image: url(./img/churrasquito.png);
+}
+
+.card2 {
+    width: 239px;
+    height: 245.92px;
+    left: 93px;
+    top: 788px;
+    margin-top: 40px;
+background-image: url(./img/comedero.png)
+}
+
+.card3 {
+    width: 239px;
+    height: 245.92px;
+    left: 93px;
+    top: 788px;
+    margin-top: 40px;
+background-image: url(./img/Huesito.png)}
+
+.produto {display: flex;
+    flex-direction: column;
+  
+    align-items: center;
+   width: 239px;
+    background: #FBFAF6;
+  
+}
+h6{text-align: center;
+    width: 200px;
+height: 15.25px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 15px;
+color: #3C2313;
+
+
+}
+
+  #preço {
+    width: 30.13px;
+height: 15.25px;
+left: 197.44px;
+top: 1048.84px;
+margin-top: 5px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #F0A83E;
+
+}
