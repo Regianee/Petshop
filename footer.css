@@ -1,0 +1,84 @@
+footer {
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+    justify-content: center;
+    width: 414px;
+    height: 326px;   
+    left: calc(50% - 414px/2);
+bottom: 16px;
+background: #3C2313;
+}
+.logo img { 
+    width: 134px;
+height: 18px
+}
+
+.localizaçao {
+
+    width: 212px;
+    height: 68px;
+   
+    
+}
+
+    .telefone {
+        width: 212px;
+        height: 68px;
+        
+    }
+
+        .email {
+            width: 212px;
+            height: 68px;          
+        }
+    
+footer h1 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+footer p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #8A8787;
+
+}
+
+footer img {
+    width: 60px;
+    height: 50px;
+    background: url(./img/Rectangle\ 22.png);
+    border:#786960;
+    border: 5px;
+}
+
+.rodape {
+    display: flex;
+    justify-content: center;
+    width: 414px;
+    height: 18.84px;
+    left: calc(50% - 414px/2);
+bottom: -2.84px;
+    background: #222222;
+}
+
+.rodape p {
+    width: 245px;
+    height: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+   
+
+}

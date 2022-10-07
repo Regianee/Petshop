@@ -1,0 +1,48 @@
+.inscriçao {
+    width: 414px;
+    height: 101px;
+    left: calc(50% - 414px/2);
+    bottom: 334px;
+    margin-top: 40px;
+    text-align: center;
+    background: #F0A83E;
+    padding-bottom: 15px;
+}
+
+.inscriçao p {
+    width: 296px;
+    height: 23px;
+    background-color: aqua;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF
+}
+
+.inscriçao input {
+    width: 261px;
+    height: 40px;
+    left: calc(50% - 261px/2 - 61.5px);
+    bottom: 344px;
+    background: #FFFFFF;
+    border-radius: 15p
+}
+
+.inscriçao button {
+    width: 100px;
+    height: 35px;
+    left: calc(50% - 100px/2 + 128px);
+    bottom: 346px;
+    background: #3C2313;
+    border-radius: 1
+}
+
+.inscriçao img {
+    position: absolute;
+    width: 37px;
+    height: 37px;
+    left: calc(50% - 37px/2 - 183.5px);
+    bottom: 391px;
+}
